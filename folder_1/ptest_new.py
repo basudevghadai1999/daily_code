@@ -1,5 +1,12 @@
 #some features is added
 
+
+"""
+    Parses the given expression using the specified delimiters and returns a dictionary containing the numbers, operators, variables, and parentheses in the expression.
+    :param expression: The expression to be parsed
+    :param delimiters: The delimiters used to parse the expression
+    :return: A dictionary containing the parsed components of the expression
+"""
 def parse_expression(expression, delimiters):
     result = {
         "number": [],

@@ -1,0 +1,56 @@
+
+https://neetcode.io/
+git url https://github.com/basudevghadai1999/daily_code.git
+
+
+git push -f origin main
+
+
+after editing the file have add and  initialize
+git add .
+
+
+ git commit -m "Initial commit"
+
+
+ git pull origin main   
+
+
+
+
+
+ s.count(substring, [start,end]) Counts the occurrences of a substring with
+optional start and end parameters.
+s.expandtabs([tabsize]) Replaces tabs with spaces.
+s.find(substring, [start, end]) Returns the index of the first occurrence of a
+substring or returns -1 if the substring is not
+found.
+s.isalnum() Returns True if all characters are
+alphanumeric, returns False otherwise.
+s.isalpha() Returns True if all characters are alphabetic,
+returns False otherwise.
+s.isdigit() Returns True if all characters are digits, returns
+False otherwise.
+s.join(t) Joins the strings in sequence t.
+s.lower() Converts the string to all lowercase.
+s.replace(old, new [maxreplace]) Replaces old substring with new substring.
+s.strip([characters]) Removes whitespace or optional characters.
+s.split([separator], [maxsplit]) Splits a string separated by whitespace or an
+optional separator. Returns a list.
+
+
+
+list
+
+
+list(s) Returns a list of the sequence s.
+s.append(x) Appends element x to the end of s.
+s.extend(x) Appends the list x to s.
+s.count(x) Counts the occurrence of x in s.
+s.index(x, [start], [stop]) Returns the smallest index, i, where s[i] ==x. Can
+include optional start and stop index for the search.
+s.insert(i,e) Inserts x at index i.
+s.pop(i) Returns the element i and removes it from the list.
+s.remove(x) Removes x from s.
+s.reverse() Reverses the order of s.
+s.sort(key ,[reverse]) Sorts s with optional key and reverse.
