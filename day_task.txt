@@ -4,6 +4,8 @@ git url https://github.com/basudevghadai1999/daily_code.git
 git push -f origin main
 
 git add .
+
+after editing the file have to initialize
  git commit -m "Initial commit"
 
 
